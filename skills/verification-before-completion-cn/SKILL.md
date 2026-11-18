@@ -122,7 +122,7 @@ Skip any step = lying, not verifying
 
 ## 中文交付适配 — verification-before-completion-cn
 
-本节为独立社区补充，保留上游五步验证关卡与证据标准，不代表 Superpowers 官方。
+保留上游五步验证关卡与证据标准。
 
 ### 每一句结论都要限定范围
 

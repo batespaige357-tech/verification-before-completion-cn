@@ -11,3 +11,8 @@ Changes: frontmatter name and Chinese discovery terms; append Chinese status voc
 Recent-interest evidence: https://www.skills.sh/trending checked 2026-11-16T18:35:33.198748+00:00. Trending (24h) lists verification-before-completion #224, displayed 1.4K. Installation trend signal, not two-day GitHub Star growth or project age. Uses a different skill from the same licensed upstream collection used in round 3; no duplicate skill publication.
 
 Validation: original-body exact retention, UTF-8, local Markdown references, original MIT license retained, frontmatter validation. No assistant behavior benchmark or actual project verification trial. Did not run frontend build, install global skills, or execute upstream scripts.
+
+
+## 2026-11-18 · 文档表达更新
+
+README 优先展示用途、功能与用法；来源信息集中到来源与许可部分，精简技能入口中的重复声明。核心工作流、参考内容、版权和许可证保持不变。

@@ -2,9 +2,7 @@
 
 **先拿证据，再说完成。**
 
-基于 [obra/superpowers 的 verification-before-completion](https://github.com/obra/superpowers/tree/main/skills/verification-before-completion) 的小幅中文适配。独立社区版本，非官方。
-
-## 保留什么
+## 功能与流程
 
 完整保留上游正文：识别验证动作、执行、读取输出、核对结论，再作完成声明。保留测试、修复、构建、回归与需求检查的证据标准，以及常见误判提醒。
 
@@ -25,7 +23,9 @@ npx skills add batespaige357-tech/verification-before-completion-cn --skill veri
 
 这是验证工作流指令，不自带测试框架或扫描工具；实际检查使用项目已有且获准的能力。没有额外脚本、示例网页或效果截图。
 
-## 来源与验证边界
+## 来源与许可
+
+基于 [obra/superpowers 的 verification-before-completion](https://github.com/obra/superpowers/tree/main/skills/verification-before-completion)，由本仓库维护。
 
 沿用 MIT，保留 Jesse Vincent 版权及完整许可证。具体提交与修改见 [CHANGES.md](CHANGES.md)。
 
